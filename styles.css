@@ -1,1 +1,28 @@
 /* your code here */
+.content{
+	background-color: black;
+	color: white;
+}
+.logo_name{
+	font-size: 30px;
+}
+.media-icons> div{
+	height: 30px;
+}
+.media-icons{
+	display: flex;
+	
+}
+.top{
+	display: flex;
+	justify-content:space-around;
+}
+.link-boxes{
+	display: flex;
+	justify-content: space-evenly
+}
+.bottom-details{
+	background-color: grey;
+	display: flex;
+	justify-content: space-around;
+}
